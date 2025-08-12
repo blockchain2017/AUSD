@@ -25,30 +25,30 @@ Creating an AI-Driven NFT Marketplace is a powerful way to stand out in the rapi
 📘 Enhance security using multi-signature wallets and audits.
 📘 Improve liquidity with fiat-pegged trading pairs.
 
-🔒 Security and Compliance
-🔰 Audited Reserves: Weekly audits by trusted financial firms.
-🔰 Regulatory Compliance: Fully aligned with Labuan Financial Services Authority standards.
-🔰 Fraud Prevention: Employs advanced cryptographic measures to safeguard assets.
+#🔒 Security and Compliance
+🔰 Audited Reserves: Weekly audits by trusted financial firms.<br>
+🔰 Regulatory Compliance: Fully aligned with Labuan Financial Services Authority standards.<br>
+🔰 Fraud Prevention: Employs advanced cryptographic measures to safeguard assets.<br>
 
 🌏 Target Audience
-📗 Investors: Looking for stable and secure digital assets.
-📗 Exchangers: Enhancing fiat-to-crypto solutions.
-📗 Merchants: Simplifying global payment systems.
+📗 Investors: Looking for stable and secure digital assets.<br>
+📗 Exchangers: Enhancing fiat-to-crypto solutions.<br>
+📗 Merchants: Simplifying global payment systems.<br>
 
 📒 Learn More
-🔗 For detailed information on AUSD, please refer to the https://aomfund.com
+🔗 For detailed information on AUSD, please refer to the https://aomfund.com<br>
 
 🌐 License
-🔗 This project is licensed under the Apache License Version 2.0.
+🔗 This project is licensed under the Apache License Version 2.0.<br>
 
 Contact AUSD
-🌐 Website : https://www.aomfund.com
+🌐 Website : https://www.aomfund.com<br>
 
-👥 Twitter : https://x.com/aomausd
+👥 Twitter : https://x.com/aomausd<br>
 
-🧑‍🤝‍🧑 Facebook : https://www.facebook.com/Aomziip.Token/
+🧑‍🤝‍🧑 Facebook : https://www.facebook.com/Aomziip.Token/<br>
 
-💡 Telegram Group : https://t.me/AUSD_TOKEN
+💡 Telegram Group : https://t.me/AUSD_TOKEN<br>
 
-💰 Binance Smart Contract : https://bscscan.com/token/0xdE53379C5D9bdE78da8e2a818Cc889217Dd06205
+💰 Binance Smart Contract : https://bscscan.com/token/0xdE53379C5D9bdE78da8e2a818Cc889217Dd06205<br>
 AMANTARA (AUSD)
