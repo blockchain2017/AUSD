@@ -35,9 +35,6 @@ Creating an AI-Driven NFT Marketplace is a powerful way to stand out in the rapi
 📗 Exchangers: Enhancing fiat-to-crypto solutions.<br>
 📗 Merchants: Simplifying global payment systems.<br>
 
-📒 Learn More<br>
-🔗 For detailed information on AUSD, please refer to the https://aomfund.com<br>
-
 🌐 License<br>
 🔗 This project is licensed under the Apache License Version 2.0.<br>
 
