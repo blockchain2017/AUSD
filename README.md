@@ -25,7 +25,7 @@ Creating an AI-Driven NFT Marketplace is a powerful way to stand out in the rapi
 📘 Enhance security using multi-signature wallets and audits.
 📘 Improve liquidity with fiat-pegged trading pairs.
 
-#🔒 Security and Compliance
+# Security and Compliance
 🔰 Audited Reserves: Weekly audits by trusted financial firms.<br>
 🔰 Regulatory Compliance: Fully aligned with Labuan Financial Services Authority standards.<br>
 🔰 Fraud Prevention: Employs advanced cryptographic measures to safeguard assets.<br>
