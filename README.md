@@ -40,6 +40,7 @@ Creating an AI-Driven NFT Marketplace is a powerful way to stand out in the rapi
 
 
 Contact AUSD<br>
+
 🌐 Website : https://www.aomfund.com<br>
 
 👥 Twitter : https://x.com/aomausd<br>
@@ -49,4 +50,5 @@ Contact AUSD<br>
 💡 Telegram Group : https://t.me/AUSD_TOKEN<br>
 
 💰 Binance Smart Contract : https://bscscan.com/token/0xdE53379C5D9bdE78da8e2a818Cc889217Dd06205<br>
-AMANTARA (AUSD)
+
+# AMANTARA (AUSD)
