@@ -30,18 +30,19 @@ Creating an AI-Driven NFT Marketplace is a powerful way to stand out in the rapi
 🔰 Regulatory Compliance: Fully aligned with Labuan Financial Services Authority standards.<br>
 🔰 Fraud Prevention: Employs advanced cryptographic measures to safeguard assets.<br>
 
-🌏 Target Audience
+🌏 Target Audience<br>
 📗 Investors: Looking for stable and secure digital assets.<br>
 📗 Exchangers: Enhancing fiat-to-crypto solutions.<br>
 📗 Merchants: Simplifying global payment systems.<br>
 
-📒 Learn More
+📒 Learn More<br>
 🔗 For detailed information on AUSD, please refer to the https://aomfund.com<br>
 
-🌐 License
+🌐 License<br>
 🔗 This project is licensed under the Apache License Version 2.0.<br>
 
-Contact AUSD
+
+Contact AUSD<br>
 🌐 Website : https://www.aomfund.com<br>
 
 👥 Twitter : https://x.com/aomausd<br>
